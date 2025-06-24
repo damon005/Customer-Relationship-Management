@@ -7,7 +7,7 @@ A full Web working application with Spring, Hibernate and Maven functions. This 
 Additional Feature Added is Search Option we can Filter Customer Details By their First Name, By their Last Name, By their Email ID and even By Company name we can able to filter customer details accordingly as per the user requirement and as we all know we can create customer, update customer details and delete the customer.
 
 IMG - SNAPSHOT 1: All Customers
-![3](https://github.com/daftab91/customer-relationship-manager/assets/45013267/4d6d06be-6a93-44d6-a509-dc9e5f77f8bf)
+![3](https://github.com/Aftab91/customer-relationship-manager/assets/45013267/4d6d06be-6a93-44d6-a509-dc9e5f77f8bf)
 
 IMG - SNAPSHOT 2: CREATE Customer
 ![1](https://github.com/Aftab91/customer-relationship-manager/assets/45013267/8ad30b76-9f7a-4dba-a12e-8e1a726b0bcb)
