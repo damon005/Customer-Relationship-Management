@@ -7,16 +7,16 @@ A full Web working application with Spring, Hibernate and Maven functions. This 
 Additional Feature Added is Search Option we can Filter Customer Details By their First Name, By their Last Name, By their Email ID and even By Company name we can able to filter customer details accordingly as per the user requirement and as we all know we can create customer, update customer details and delete the customer.
 
 IMG - SNAPSHOT 1: All Customers
-![3](https://github.com/Aftab91/customer-relationship-manager/assets/45013267/4d6d06be-6a93-44d6-a509-dc9e5f77f8bf)
+![3](https://github.com/damon005/Customer-Relationship-Management/blob/main/assets/Screenshot%202025-06-21%20090007.png)
 
 IMG - SNAPSHOT 2: CREATE Customer
-![1](https://github.com/Aftab91/customer-relationship-manager/assets/45013267/8ad30b76-9f7a-4dba-a12e-8e1a726b0bcb)
+![1](https://github.com/damon005/Customer-Relationship-Management/blob/main/assets/Screenshot%202025-06-21%20090046.png)
 
 IMG - SNAPSHOT 3: UPDATE Customer
-![2](https://github.com/Aftab91/customer-relationship-manager/assets/45013267/04e11d85-8620-4106-a040-1341409d5529)
+![2](https://github.com/damon005/Customer-Relationship-Management/blob/main/assets/Screenshot%202025-06-21%20090107.png)
 
 IMG - SNAPSHOT 4: SEARCH Filter Customer By their First Name | Last Name | Email ID | Company
-![4](https://github.com/Aftab91/customer-relationship-manager/assets/45013267/c0859613-d346-4b96-84a0-d31e6f13a39f)
+![4](https://github.com/damon005/Customer-Relationship-Management/blob/main/assets/Screenshot%202025-06-21%20090157.png)
 
 Guide To Install or Run this Application on your device:
 
@@ -24,7 +24,7 @@ To Create Spring Boot Project [Optional Step Ignore if you dont want to build th
 Go to [start.spring](https://start.spring.io/)https://start.spring.io/ 
 Download Project With Java - Maven Project 
 ADD Dependencies: Spring Web, Thymeleaf, MySQL Driver, Spring Data JPA, Spring boot DevTools
-![image](https://github.com/Aftab91/customer-relationship-manager/assets/45013267/3926025c-b803-43d0-911f-f5b90e7bbf34)
+![image](https://github.com/damon005/Customer-Relationship-Management/blob/main/assets/Screenshot%202025-06-21%20090358.png)
 Click on Generate, It will download Zip File, Unzip it add entire folder into Intellij IDEA or Eclipse IDE as per your convinience [I suggest use Intellij IDEA]
 
 Step 1: Download GitHub Repository and Unzip
