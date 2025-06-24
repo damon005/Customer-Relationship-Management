@@ -1,6 +1,6 @@
 # 📇 Customer Relationship Management System (Spring Boot + MySQL)
 
-A full-stack CRM web application developed using Java, Spring Boot, Hibernate, and MySQL. This project implements complete CRUD operations with search and filtering features for managing customer data in an organization.
+This is a full-stack CRM web application developed using Java, Spring Boot, Hibernate, and MySQL. This project implements complete CRUD operations with search and filtering features for managing customer data in an organization.
 
 ---
 
