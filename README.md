@@ -1,4 +1,4 @@
-# customer-relationship-manager
+# Customer-Relationship-Management
 This is a Java Full Stack Spring boot Application used MySQL as Database
 Technologies used: Spring Core, Spring MVC, Hibernate API, JSP pages, JSTL tags, Thymeleaf, Maven, HTML, CSS, Bootstrap, Database engine used: MySQL, Configuration application (xml).
 
@@ -28,23 +28,32 @@ ADD Dependencies: Spring Web, Thymeleaf, MySQL Driver, Spring Data JPA, Spring b
 Click on Generate, It will download Zip File, Unzip it add entire folder into Intellij IDEA or Eclipse IDE as per your convinience [I suggest use Intellij IDEA]
 
 Step 1: Download GitHub Repository and Unzip
+
 Step 2: Open Folder in Eclipse or Intellij IDEA IDE
+
 Step 3: Check the Dependencies in pom.xml file are correct and latest version is kept 
+
 Step 4: Open Application Properties file from resources folder Add Application properties according to your database if you are using MySQL use your server port number jdbc:mysql://localhost:{your_port_number}/{your_database_name}
 #MySQL DB Connect
 spring.datasource.url=jdbc:mysql://localhost:3306/crm
+
 Step 5: Add your MySQL DB Username:{your_username} and Password:{your_password} in Application Properties file from resources folder 
 spring.datasource.username=your_username
 spring.datasource.password=your_password
+
 Step 6: Add Hibernate Properties in the same file Application Properties
 #Hibernate
 spring.jpa.properties.hibernate.dialect =org.hibernate.dialect.MySQLDialect
 hibernate.dialect=org.hibernate.dialect.MySQLInnoDBDialect
+
 Step 7: Add logging level to the same file 
 logging.level.org.hibernate.SQL=DEBUG
+
 Step 8: Add Hibernate Auto-ddl properties in same file this step is important as hibernate will auto generate sql commands with the entity class
 #Hibernate auto ddl
 spring.jpa.hibernate.ddl-auto=update
 hibernate.hbm2ddl.auto=create
+
 Step 9: Check All the files structured in path for this you can google how to place the files in proper structure!
+
 Step 10: Run the Applicatin from Main Function class, when application run the first time it will auto create a table if everything works fine you can view the logs generated in the console and if the status is  started now open the browser, open this link : http://localhost:8080/customers  and All Set! 
