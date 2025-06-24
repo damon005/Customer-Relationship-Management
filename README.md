@@ -41,10 +41,10 @@ Mapped using Hibernate annotations in the `Customer` entity class.
 
 | Feature         | Screenshot |
 |----------------|------------|
-| All Customers  | ![All Customers](https://raw.githubusercontent.com/damon005/Customer-Relationship-Management/main/assets/all_customers.png) |
-| Create Customer| ![Create Customer](https://raw.githubusercontent.com/damon005/Customer-Relationship-Management/main/assets/create_customer.png) |
-| Update Customer| ![Update Customer](https://raw.githubusercontent.com/damon005/Customer-Relationship-Management/main/assets/update_customer.png) |
-| Search Feature | ![Search Filter](https://raw.githubusercontent.com/damon005/Customer-Relationship-Management/main/assets/search_customer.png) |
+| All Customers  | ![All Customers] ![1](https://github.com/damon005/Customer-Relationship-Management/blob/main/assets/Screenshot%202025-06-21%20090007.png) |
+| Create Customer| ![Create Customer]![2](https://github.com/damon005/Customer-Relationship-Management/blob/main/assets/Screenshot%202025-06-21%20090046.png) |
+| Update Customer| ![Update Customer]![3](https://github.com/damon005/Customer-Relationship-Management/blob/main/assets/Screenshot%202025-06-21%20090107.png) |
+| Search Feature | ![Search Filter]![4](https://github.com/damon005/Customer-Relationship-Management/blob/main/assets/Screenshot%202025-06-21%20090157.png) |
 
 ---
 
