@@ -80,6 +80,5 @@ Mapped using Hibernate annotations in the `Customer` entity class.
         mvn spring-boot:run
 
 5. **Access the app in your browser**
-   
-        http://localhost:8080/customers
+     http://localhost:8080/customers
    
