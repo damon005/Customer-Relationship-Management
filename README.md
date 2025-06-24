@@ -6,16 +6,16 @@ A full Web working application with Spring, Hibernate and Maven functions. This 
 
 Additional Feature Added is Search Option we can Filter Customer Details By their First Name, By their Last Name, By their Email ID and even By Company name we can able to filter customer details accordingly as per the user requirement and as we all know we can create customer, update customer details and delete the customer.
 
-IMG - SNAPSHOT 1: All Customers
+IMG - 1: All Customers
 ![3](https://github.com/damon005/Customer-Relationship-Management/blob/main/assets/Screenshot%202025-06-21%20090007.png)
 
-IMG - SNAPSHOT 2: CREATE Customer
+IMG - 2: CREATE Customer
 ![1](https://github.com/damon005/Customer-Relationship-Management/blob/main/assets/Screenshot%202025-06-21%20090046.png)
 
-IMG - SNAPSHOT 3: UPDATE Customer
+IMG - 3: UPDATE Customer
 ![2](https://github.com/damon005/Customer-Relationship-Management/blob/main/assets/Screenshot%202025-06-21%20090107.png)
 
-IMG - SNAPSHOT 4: SEARCH Filter Customer By their First Name | Last Name | Email ID | Company
+IMG - 4: SEARCH Filter Customer By their First Name | Last Name | Email ID | Company
 ![4](https://github.com/damon005/Customer-Relationship-Management/blob/main/assets/Screenshot%202025-06-21%20090157.png)
 
 Guide To Install or Run this Application on your device:
