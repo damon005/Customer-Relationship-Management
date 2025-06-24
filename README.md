@@ -65,12 +65,12 @@ Mapped using Hibernate annotations in the `Customer` entity class.
 2. **Import the project into your IDE**
 
 3. **Update application.properties in src/main/resources**
-    # MySQL connection
+    ### MySQL connection
        spring.datasource.url=jdbc:mysql://localhost:3306/crm
        spring.datasource.username=your_username
        spring.datasource.password=your_password
 
-    # Hibernate settings
+    ### Hibernate settings
         spring.jpa.hibernate.ddl-auto=update
         spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQLInnoDBDialect
         logging.level.org.hibernate.SQL=DEBUG
